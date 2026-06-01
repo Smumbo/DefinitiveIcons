@@ -1,3 +1,18 @@
+# v3.4
+- Added 7 new badges:
+
+| Badge Added | Preview |
+| :---: | :---: |
+| `[Genre] Art 1` | <img width="64" height="64" alt="Genre  Art 1" src="https://github.com/user-attachments/assets/a8d28610-4473-4039-a827-fd9e560b791c" /> |
+| `[Genre] Art 2` | <img width="64" height="64" alt="Genre  Art 2" src="https://github.com/user-attachments/assets/c8fdb0bb-2117-4d76-a412-127229959381" /> |
+| `[Genre] Drawing 1` | <img width="64" height="64" alt="Genre  Drawing 1" src="https://github.com/user-attachments/assets/76f95c4a-c4c0-444b-bcbd-728c5ef7b24f" /> |
+| `[Genre] Drawing 2` | <img width="64" height="64" alt="Genre  Drawing 2" src="https://github.com/user-attachments/assets/cf872543-965a-4a94-ae7e-5cc691877991" /> |
+| `[Misc] Divider 5` | <img width="128" height="64" alt="Misc  Divider 5" src="https://github.com/user-attachments/assets/2b653644-2c50-4662-af2d-8c5b275f1857" /> |
+| `[Misc] Divider 6` | <img width="64" height="128" alt="Misc  Divider 6" src="https://github.com/user-attachments/assets/231f25bd-d6e2-4ef8-a446-1deeaae5747c" /> |
+| `[Misc] Divider 7` | <img width="192" height="64" alt="Misc  Divider 7" src="https://github.com/user-attachments/assets/2b5ef248-ab8b-4868-a199-9012c7ad839c" /> |
+| `[Misc] Divider 8` | <img width="64" height="192" alt="Misc  Divider 8" src="https://github.com/user-attachments/assets/d81c69db-0d7e-4da9-be5c-8a44a312dccf" /> |
+| `[System] Virtual Boy 3` | <img width="64" height="64" alt="System  Nintendo Virtual Boy 3" src="https://github.com/user-attachments/assets/11f68c3c-3bf5-41a5-b973-e35f15720b98" /> |
+
 # v3.3
 - Added 10 new badges:
 
