@@ -1,3 +1,11 @@
+# v3.5
+- Added 1 new badge:
+
+| Badge Added | Preview |
+| :---: | :---: |
+| `[Game] Picross` | <img width="64" height="64" alt="Game  Picross" src="https://github.com/user-attachments/assets/f8009353-642d-4a27-b38f-7d602530760c" /> |
+
+
 # v3.4
 - Added 7 new badges:
 
